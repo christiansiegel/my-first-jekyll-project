@@ -30,6 +30,11 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+| Table without header?      | Are           | Cool  |
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 |To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works. | right-aligned | $1600 |
